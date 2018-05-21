@@ -183,8 +183,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Twig](https://twig.symfony.com/)
 
 ## Frameworks
-* [CodeIgniter](https:// https://codeigniter.com/) (A simple and elegant toolkit to create full-featured web applications.)
-* [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inpired by Ruby on Rails)
+* [CodeIgniter](https://codeigniter.com/) (A simple and elegant toolkit to create full-featured web applications.)
 * [Laravel](https://laravel.com/) (A very popular framework)
 * [Symfony](https://symfony.com/) (A modular enterprise framework)
 * [Zend](https://framework.zend.com/) (A modular enterprise fraemwork)
