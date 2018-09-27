@@ -78,20 +78,10 @@
 
 ## Videos
 * [PHP Programming](https://www.youtube.com/watch?v=27dR_sLaM74)
-* [The New Boston's Youtube Playlist](https://www.youtube.com/course?list=EC442FA2C127377F07)
 * [Codecourse](https://www.youtube.com/codecourse/videos)
 
-## Books
-* [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
-* [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
-* [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0973862149&linkCode=as2&tag=28031982-21)
-* [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php) 
 
-## Online schools
-* [CodeAcademy - Web Development](https://www.codecademy.com/catalog/subject/web-development)
-* [KnpUniversity - Learn PHP](https://knpuniversity.com/tracks/php)
-* [KnpUniversity - Learn Symfony 4](https://knpuniversity.com/tracks/symfony)
-* [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
+
 
 ## Reference
 * [PHP Manual](http://de1.php.net/manual/en/index.php)
@@ -121,7 +111,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Introduction to CSS Selectors](https://www.sitepoint.com/web-foundations/introduction-css-selectors/)
 
 ### JavaScript
-* [JavaScript](http://en.wikipedia.org/wiki/JavaScript) (aka ECMAScript)
+* [JavaScript](http://en.wikipedia.org/wiki/JavaScript) 
 * [Basic JavaScript](http://speakingjs.com/es5/ch01.html)
 * [JSON](http://en.wikipedia.org/wiki/JavaScript_Object_Notation)
 * [JSON Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
@@ -146,12 +136,14 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Composer](https://getcomposer.org/) (dependency management)
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
-* [PoEdit](https://poedit.net/) (gettext translations editor)
-* [Smartgit](https://www.syntevo.com/smartgit/) (GUI client for Git)
+* [PoEdit](https://poedit.net/) (get text translations editor)
+* [Smart git](https://www.syntevo.com/smartgit/) (GUI client for Git)
 * [Notepad++](https://notepad-plus-plus.org/) (Text editor)
 * [7-ZIP](http://www.7-zip.org/) (File archiver)
+* [Cmder] (http://cmder.net/) (Git inbuild command prompt)
 
 ## IDEs
+* [Sublime] (https://www.sublimetext.com/buy) (Free)
 * [Netbeans](https://netbeans.org/features/php/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Zend Studio](http://www.zend.com/en/products/studio) ($)
@@ -169,19 +161,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
 * [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
 
-## Webdesign
-* [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
 
 ## View libraries (frontend)
-* [Mustache.js](https://mustache.github.io/)
-* [Handlebars.js](http://handlebarsjs.com/)
-* [Vue.js](https://vuejs.org/)
-* [React](https://reactjs.org/)
+* [Datepicker.js](https://api.jqueryui.com/datepicker/)
 
-## Templating
-* [Getting started with php templating](https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/)
-* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
-* [Twig](https://twig.symfony.com/)
 
 ## Frameworks
 * [CodeIgniter](https://codeigniter.com/) (A simple and elegant toolkit to create full-featured web applications.)
@@ -215,57 +198,10 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
 * [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
 
-## Object-oriented programming
 
-> "Write shy code - <br>
-> modules that don't reveal anything unnecessary to other <br>
-> modules and that don't rely on other modules' implementations."
-
-* [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
-* [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (ebook) 
-* [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
-* [OOP mit PHP5](http://www.peterkropff.de/site/php/oop.htm) (german)
-* [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
-* [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
-
-## Design patterns
-
-* [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8)
-* [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/)
-* [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
-* [Videos](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
 
 ## Best Practices
 
-### KISS
-
-> Simplicity is prerequisite for reliability.<br>
-> — Edsger W. Dijkstra
-
-* [KISS - Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
-* [KISS principle](https://people.apache.org/~fhanik/kiss.html)
-
-### YAGNI 
-
-* [YAGNI](http://deviq.com/yagni/)
-* [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
-* [KISS and YAGNI](https://blog.codinghorror.com/kiss-and-yagni/)
-* [YAGNI, Cargo Cult and Overengineering](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
-
-### DRY
-
-> "DRY ‐ Don't Repeat Yourself<br>
-> Every piece of knowledge must have a single, <br>
-> unambiguous, athoritative representation within a system."
-
-* [Don’t repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
-
-### SOLID
-
-* [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
-* [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
 
 ### Other
 
@@ -273,7 +209,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Return early, return often](https://softwareengineering.stackexchange.com/q/18454)
 * [Global Variables Are Bad](http://stackoverflow.com/a/10525602)
 * [Thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
-* [PHP Dos and Don’ts aka Programmers I Don’t Like](https://blog.radwell.codes/2016/11/php-dos-donts-aka-programmers-dont-like/)
+* [PHP Dos and Don’s aka Programmers I Don’t Like](https://blog.radwell.codes/2016/11/php-dos-donts-aka-programmers-dont-like/)
 * [Composition over inheritance](https://www.thoughtworks.com/pt/insights/blog/composition-vs-inheritance-how-choose)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [Object Calisthenics](https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46)
@@ -435,19 +371,12 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [API Guidelines](http://zalando.github.io/restful-api-guidelines/index.html#api-naming)
 * [7 Rules for REST API URI Design](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
 
-### SOAP API
-
-* [SOAP](https://en.wikipedia.org/wiki/SOAP) (Simple Object Access Protocol)
-* [The SOAP extension](http://php.net/manual/en/book.soap.php) The SOAP extension can be used to write SOAP Servers and Clients.
-* [Web service](https://en.wikipedia.org/wiki/Web_service)
-* [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language) (Web Services Description Language)
-* [Implementing a SOAP API with PHP ](https://gist.github.com/odan/1a736eefabe893fa66e4befeb226dcc8)
 
 ## Version control
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * **[Github](https://github.com)**
 * [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
-* [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
+* [git tutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [How to contribute to an open source project on GitHub](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
 
