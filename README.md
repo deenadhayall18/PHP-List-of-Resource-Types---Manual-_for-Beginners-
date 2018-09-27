@@ -63,6 +63,7 @@
 * [The Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Tutorials
+* [CodIgniter PHP Practitioner]https://www.codeigniter.com/docs) (Free)
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php) (Free)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
 * [Hacking with PHP](http://www.hackingwithphp.com/)
